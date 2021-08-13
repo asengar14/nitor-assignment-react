@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# This app is created by using Create React App for Nitor assignment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About the App
+This app is a platform to provide jokes from the icanhazdadjoke.com API to fetch the jokes. 
+This is developed by using React with typeScript, functional components, react hooks and Redux for the store management.
 
 ## Available Scripts
 
@@ -13,11 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
